@@ -1,0 +1,3 @@
+com\wwc\vertx\App.class
+com\wwc\vertx\AsyncHandle.class
+com\wwc\vertx\HttpBridge.class
